@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Enjoy on your TV.",
+    "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+    "image": "assets/images/misc/home-tv-empty.png",
+    "video":  "assets/videos/video-tv.m4v",
+    "top":"21%",
+    "left":"-2px",
+    "alt": "Tiger King on Netflix",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Download your shows to watch offline.",
+    "subTitle": "Save your favorites easily and always have something to watch.",
+    "image": "assets/images/misc/home-mobile.jpg",
+    "alt": "Watch on mobile",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Watch everywhere.",
+    "subTitle": "Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV without paying more.",
+    "image": "assets/images/misc/home-imac-empty.png",
+    "video":  "assets/videos/video-device.m4v",
+    "alt": "Money Heist on Netflix",
+    "top":"-29px",
+    "left":"88px",
+    "height":"86%",
+    "width":"65%",
+    "direction": "row"
+  }
+]
